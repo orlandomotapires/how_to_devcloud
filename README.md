@@ -1,4 +1,4 @@
-<h1 align="center">How to Intel® DevCloud Environment</h1>
+<h1 align="center">🖥️ How to Intel® DevCloud Environment 🖥️</h1>
 
 <div align="center">
 	<a href="https://www.intel.com/content/www/us/en/developer/tools/devcloud/overview.html">
@@ -13,8 +13,8 @@
 
 ## Special thanks to 🥰:
 
-- [Murilo Boratto](http://lattes.cnpq.br/9222855062709254), your experience and knowledge have been invaluable to our progress.
-- [Ugonna Chikezie](https://www.linkedin.com/in/ugonnachikezie/), your experience and knowledge have been invaluable to our progress.
+- [Murilo Boratto](http://lattes.cnpq.br/9222855062709254), our professor and instructor in many different parts of our graduation.
+- [Ugonna Chikezie](https://www.linkedin.com/in/ugonnachikezie/), the Global Lead - oneAPI Academic Workshops, our mentor on student Ambassador programm.
 
 ## About 🤔:
 
